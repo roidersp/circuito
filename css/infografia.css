@@ -1,0 +1,43 @@
+#infografia{
+	background-color: #014993;
+	max-width: 1160px;
+	padding: 120px 0;
+	margin: 300px auto;
+}
+
+.info_logo{
+	margin: auto;
+	text-align: center;
+}
+
+.info_logo img{
+	margin: auto;
+}
+
+#mapa_infografia_cont{
+	position: relative;
+	width: 100%;
+	height: 3429px;
+	margin: auto;
+}
+
+#mapa_infografia{
+	width: 100%;
+	height: 3429px;
+	background-image: url(../images/MAPA.png);
+	margin: 60px auto;
+	position: absolute;
+	top: 0px;
+	background-position: center top;
+	background-repeat: no-repeat;
+}
+
+#movil_infografia{
+	width: 78px;
+	height: 69px;
+	background-image: url(../images/movil.png);
+	position: absolute;
+	top: 0px;
+	transform: translate(577px,-8px) rotate(44deg);
+	background-repeat: no-repeat;
+}
