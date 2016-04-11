@@ -8,7 +8,6 @@ girar_movil(265,20,73,305,0,0.4,"rotacion 3");
 
 mover_movil(285,120,212,405,0.8,"mapa 2");
 
-
 // Función para mover el carrito de forma lineal 
 
 function mover_movil(offset,duracion,left,top,t_animacion,name){
